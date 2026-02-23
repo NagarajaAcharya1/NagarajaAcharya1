@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Robotics+%26+Automation+Engineering+Student;Web+Developer+%7C+Arduino+Learner;Building+Real+World+Projects;Graphic+Design+Enthusiast;Future+Robotics+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Automation+Engineering+Student;Web+Developer+%7C+Arduino+Learner;Building+Real+World+Projects;Graphic+Design+Enthusiast;Future+Robotics+Engineer" />
 </p>
 
 ---
@@ -121,7 +121,8 @@ To become a **Robotics Engineer building intelligent automation systems**
 
 ---
 
-### ⛽ PumpMate – Petrol Bunk Management Platform  
+### ⛽ PumpMate – Petrol Bunk Management Platform
+🔗 https://pumpmate.vercel.app/  
 • Demo platform concept  
 • Tracks daily sales  
 • Worker salary management  
