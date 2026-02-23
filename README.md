@@ -165,7 +165,7 @@ Sahyadri College of Engineering and Management, Mangalore
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.quicktools.website/">
+<a href="https://www.nagarajaacharya.site/">
 <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
