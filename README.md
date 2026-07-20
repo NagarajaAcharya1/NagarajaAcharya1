@@ -1,184 +1,246 @@
-# Hi there, I'm Nagaraja Acharya! 👋
+# Hi, I'm Nagaraja Acharya
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Robotics%20Student%20%7C%20Web%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nagaraja%20Acharya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Automation+Engineering+Student;Web+Developer+%7C+Arduino+Learner;Building+Real+World+Projects;Graphic+Design+Enthusiast;Future+Robotics+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Automation+Engineering+Student;Web+Developer+%7C+Graphic+Designer;Building+Real-World+Digital+Products;Robotics+%7C+Embedded+Systems+%7C+Web+Development"/>
 </p>
 
----
-
-## 🤖 About Me
-
-I am a **4th Semester Robotics and Automation Engineering student** at  
-**Sahyadri College of Engineering and Management, Mangalore**.
-
-🚀 I am passionate about building real-world systems combining  
-• Robotics  
-• Web Development  
-• Embedded Systems  
-• Graphic Design  
-• Automation Platforms  
-
-💼 Currently:
-- 🤖 Working on **Robotics Internship – Agricultural Field Monitoring Robot**
-- 🌐 Working as **Part-Time Web Developer at Samvada Communication**
-- 💻 Built **4+ real client websites**
-- ⚡ Using AI tools to increase productivity and development speed
-
-🎯 Goal  
-To become a **Robotics Engineer building intelligent automation systems**
-
----
-
-## ⚡ Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NagarajaAcharya1/NagarajaAcharya1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://komarev.com/ghpvc/?username=NagarajaAcharya1&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-## 🧠 Tech Stack & Skills
+# About Me
 
-### 🤖 Robotics & Embedded Systems (Learning)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Sensors-FF6F00?style=for-the-badge)
+I'm a **5th Semester Robotics and Automation Engineering student** at **Sahyadri College of Engineering and Management, Mangalore**, with hands-on experience across robotics, embedded systems, web development, and digital product design.
 
-• Arduino (Basic Projects)  
-• ESP32 (Basic Knowledge)  
-• Sensor integration  
-• Agricultural Field Monitoring Robot (Internship Project)
+I currently work as a **Web Developer & Graphic Designer at Samvada Communication**, building production-ready websites and digital experiences for real clients.
 
----
+I enjoy building practical solutions that combine engineering, software, and design. Whether it's developing responsive websites, working with embedded systems, or creating user-focused digital experiences, I focus on delivering solutions that are reliable, functional, and easy to use.
 
-### 💻 Programming Languages (Basic Knowledge)
-![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+## Currently
 
-• HTML & CSS  
-• Python (Basic)  
-• C Programming (Basic)
+- Web Developer & Graphic Designer at **Samvada Communication**
+- Completed a Robotics Internship developing **AgroTrack**, an agricultural field monitoring system
+- Completed an IoT Internship developing **Stampede Control**, a real-time crowd monitoring dashboard
+- Delivered **10+ production-ready client websites**
+- Currently learning **ROS 2, Embedded Systems, IoT, and Modern Web Technologies**
 
 ---
 
-### 🌐 Web Development
-![Web Dev](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge)
+# Tech Stack
 
-• Responsive Website Development  
-• UI Design  
-• Real Client Projects  
-• 4+ Professional Websites Built  
+## Programming Languages
 
----
-
-### 🎨 Graphic Design
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-5C3EE8?style=for-the-badge)
-
-• Poster Design  
-• UI Layout Design  
-• Website Design Concepts  
-
----
-
-### ⚡ Productivity & Tools
-![AI Tools](https://img.shields.io/badge/AI%20Tools-102230?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-• Efficient use of AI tools  
-• Git & GitHub  
-• VS Code  
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 AgroTrack – Field Monitoring Dashboard  
-🔗 https://agrotrack-frontend.onrender.com/  
-• Agricultural field monitoring dashboard  
-• Displays environmental sensor data  
-
----
-
-### 🛠 QuickTools – Online Productivity Tools  
-🔗 https://www.quicktools.website/  
-• Collection of useful online tools  
-• Built for productivity  
-
----
-
-### 🤝 HelpMeBro – Student Support Platform  
-🔗 https://www.helpmebro.website/  
-• Student assistance platform  
-• Tools and academic support features  
-
----
-
-### ⛽ PumpMate – Petrol Bunk Management Platform
-🔗 https://pumpmate.vercel.app/  
-• Demo platform concept  
-• Tracks daily sales  
-• Worker salary management  
-
----
-
-## 📚 Education
-
-🎓 B.E. in Robotics and Automation Engineering  
-Sahyadri College of Engineering and Management, Mangalore  
-(Current – 4th Semester)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagarajaAcharya1&theme=tokyonight" height="165"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
 </p>
 
+## Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+</p>
+
+## Robotics & Embedded Systems
+
+- Arduino
+- Raspberry Pi
+- ESP32
+- Embedded Systems
+- IoT
+- Sensors & Actuators
+- Automation Systems
+
+## Design & Productivity Tools
+
+- Adobe Photoshop
+- Canva
+- Git
+- GitHub
+- Visual Studio Code
+- Microsoft Office
+- Google Workspace
 
 ---
 
-## 🌐 Connect with Me
+# Professional Experience
+
+## Web Developer & Graphic Designer
+
+**Samvada Communication**
+
+**May 2025 – Present**
+
+- Developed and delivered **10+ production-ready websites** for businesses and organizations.
+- Built responsive, user-friendly websites with a focus on performance and usability.
+- Collaborated directly with clients to understand business requirements and deliver effective digital solutions.
+- Designed promotional creatives, banners, posters, and marketing materials.
+- Maintained websites with regular updates, SEO improvements, and performance optimization.
+
+---
+
+# Internship Experience
+
+## Robotics Engineering Intern
+
+**Technical Career Education Pvt. Ltd.**
+
+**Project: AgroTrack – Agricultural Field Monitoring System**
+
+- Developed an agricultural monitoring robot.
+- Integrated environmental sensors with Arduino.
+- Implemented automation for real-time field monitoring.
+
+---
+
+## IoT & Web Development Intern
+
+**Technical Career Education Pvt. Ltd.**
+
+**Project: Stampede Control – Crowd Monitoring Dashboard**
+
+- Developed a real-time crowd monitoring dashboard.
+- Integrated IoT sensors with web technologies.
+- Built a browser-based dashboard for live monitoring and reporting.
+
+---
+
+# Featured Projects
+
+## PumpMate
+
+Fuel Station Management Platform
+
+- Daily Fuel Sales Tracking
+- Employee Management
+- Expense Tracking
+- Reports Dashboard
+
+---
+
+## AgroTrack
+
+Agricultural Field Monitoring System
+
+- Environmental Monitoring
+- IoT Integration
+- Sensor Data Visualization
+- Automation
+
+---
+
+## QuickTools
+
+Online Productivity Platform
+
+**Website**
+
+https://www.quicktools.website
+
+---
+
+## HelpMeBro
+
+Student Academic Support Platform
+
+**Website**
+
+https://www.helpmebro.website
+
+---
+
+## Personal Portfolio
+
+**Website**
+
+https://www.nagarajaacharya.site
+
+---
+
+# Certifications
+
+- Deloitte Australia Technology Job Simulation
+- Mastering HTML5: From Beginner to Advanced
+- Learn Basics of Adobe Photoshop CC
+- GenAI Cybersecurity Solutions
+- Graphic Design Essentials
+- Canva Essentials
+- Basics of Python
+
+---
+
+# Education
+
+## Bachelor of Engineering
+
+**Robotics & Automation Engineering**
+
+Sahyadri College of Engineering and Management, Mangalore
+
+**Current Semester:** 5th Semester
+
+### Relevant Coursework
+
+- Robotics
+- Automation Systems
+- Embedded Systems
+- Internet of Things (IoT)
+- Sensors & Instrumentation
+- Arduino
+- Raspberry Pi
+- Web Technologies
+
+---
+
+# Key Achievements
+
+- Delivered **10+ production-ready client websites**
+- Developed multiple real-world web applications.
+- Completed Robotics and IoT internship projects.
+- Built practical robotics and embedded systems projects.
+- Earned multiple industry-recognized certifications.
+- Designed and developed a professional portfolio showcasing projects and achievements.
+
+---
+
+# Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/NagarajaAcharya1">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:nagarajaacharya517@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nagaraja-acharya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/nagaraja._.acharya">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.nagarajaacharya.site/">
-<img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://www.nagarajaacharya.site">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Fun Fact
+<p align="center">
 
-I enjoy building real-world useful platforms and continuously improving my skills in robotics and development 🚀
+*"Building practical technology through Robotics, Embedded Systems, and Modern Web Development."*
 
----
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
